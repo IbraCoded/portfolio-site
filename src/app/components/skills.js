@@ -1,8 +1,7 @@
 import { Badge } from "@/components/ui/badge";
 
 const skills = [
-  "HTML",
-  "CSS",
+  "HTML/CSS",
   "Python",
   "Django",
   "JavaScript",
