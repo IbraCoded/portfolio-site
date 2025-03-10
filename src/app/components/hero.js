@@ -25,7 +25,7 @@ export function Hero() {
               size="lg"
               className="bg-primary hover:bg-primary/90 text-white glow-effect"
             >
-              Get in touch
+              <a href="mailto:ibrahim.adeshina.10@gmail.com"> Get in touch</a>
             </Button>
             <Button
               size="lg"
